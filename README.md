@@ -1,5 +1,5 @@
 # About Me:
-I'm a Computer Science student at UASLP, passionate about learning and exploring new technologies. My current areas of interest include **Computer Graphics**, **Web Development**, and **Artificial Intelligence**. I enjoy working on personal projects that allow me to dive deep into topics like **3D modeling**, **image processing**, and **AI-driven solutions**. On a journey to learn new skills.
+I'm a Computer Science student at UASLP, passionate about learning and exploring new technologies. My current areas of interest include **Computer Graphics**, **Web & Mobile Development**, and **Artificial Intelligence**. I enjoy working on personal projects that allow me to dive deep into topics like **3D modeling**, **image processing**, and **interactive aplications**. On a journey to learn new skills.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-angel-garcia-5633672a0/)
