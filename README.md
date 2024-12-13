@@ -5,7 +5,7 @@ I'm a Computer Science student at UASLP, passionate about learning and exploring
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-angel-garcia-5633672a0/)
 
 ## 🚀 Featured Projects:
-- **[Statsify]([https://github.com/MiguelGarciaVargas/Flappy-Duck](https://github.com/MiguelGarciaVargas/Statsify))** - A Spotify API dashboard that lets you quickly explore and interact with your favorite artists, genres, and listening activity, with insightful visualizations and data tracking.
+- **[Statsify]((https://github.com/MiguelGarciaVargas/Statsify))** - A Spotify API dashboard that lets you quickly explore and interact with your favorite artists, genres, and listening activity, with insightful visualizations and data tracking.
 - **[Flappy Duck](https://github.com/MiguelGarciaVargas/Flappy-Duck)** - A Flappy Bird-inspired game built for my Computer Graphics course, with collision detection and bounding boxes.
 - **[Autonomatch](https://github.com/MiguelGarciaVargas/AutonoMatch)** - A Tinder-inspired mobile app, developed for a mobile development course.
 
